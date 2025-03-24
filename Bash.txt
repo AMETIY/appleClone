@@ -1,0 +1,13 @@
+
+Commonly used Bash commands 
+ls — List directory contents
+echo — Prints text to the terminal window
+touch — Creates a file
+mkdir — Create a directory
+pwd — Print working directory
+cd — Change directory
+mv — Move or rename directory
+rmdir — Remove directory
+chmod — Sets the file permissions flag on a file or folder
+clear — clears out your screen
+exit — closes the terminal
