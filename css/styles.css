@@ -354,7 +354,7 @@ body {
 	background: #000;
 	padding: 100px;
 	text-align: center;
-	display: block;
+	display: none;
 }
 
 .searchbox ul {
