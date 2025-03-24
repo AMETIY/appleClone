@@ -10,16 +10,16 @@ The project contains apple web page clone.
 ### 🛠️ **Technologies Used**
 - HTML5
 - CSS3
+-javascript
 - Git & GitHub
 
 ---
 
-### 🔥 **Folder Structure**```plaintext
+### 🔥 **Folder Structure**
 📁 appleclone
  ┣ 📁 css
  ┣ 📁 images
  ┣ 📁 js
  ┣ 📄 index.html
- ┣ 📄 style.css
  ┣ 📄 README.md
 
